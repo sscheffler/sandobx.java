@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="command-line-interface" external.linked.project.path="$MODULE_DIR$/../../command-line-interface" external.root.project.path="$MODULE_DIR$/../../command-line-interface" external.system.id="GRADLE" external.system.module.group="de.moving.turtle" external.system.module.version="1.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../command-line-interface">
+      <excludeFolder url="file://$MODULE_DIR$/../../command-line-interface/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../command-line-interface/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

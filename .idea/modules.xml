@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command-line-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/command-line-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command-line-interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/command-line-interface_main.iml" group="command-line-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command-line-interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/command-line-interface_test.iml" group="command-line-interface" />
+      <module fileurl="file://$PROJECT_DIR$/sandobx.java.iml" filepath="$PROJECT_DIR$/sandobx.java.iml" />
+    </modules>
+  </component>
+</project>
